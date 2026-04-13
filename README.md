@@ -20,5 +20,5 @@ A lightweight, fully functional autonomous AI agent built in Python using the Go
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/yourusername/my-first-agent.git](https://github.com/yourusername/my-first-agent.git)
+git clone https://github.com/imranshareefshaik/my-first-agent.git
 cd my-first-agent
